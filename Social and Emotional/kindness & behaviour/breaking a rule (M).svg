@@ -1,0 +1,53 @@
+<svg data-cover="arms:covered" xmlns="http://www.w3.org/2000/svg" viewBox="58.18 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata>
+<line x1="145" y1="303" x2="136" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<line x1="175" y1="303" x2="184" y2="455" stroke="#39425c" stroke-width="16.0" stroke-linecap="round"/>
+<ellipse cx="136" cy="457" rx="13" ry="7" fill="#33373d"/>
+<ellipse cx="184" cy="457" rx="13" ry="7" fill="#33373d"/>
+<polygon points="128,197 192,197 190,305 130,305" fill="#6b5a3a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="130" y1="199" x2="186" y2="231" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="190" y1="199" x2="134" y2="231" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="160" y1="197" x2="160" y2="166" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<path d="M 130.0 197 L 190.0 197 L 188.0 325 L 132.0 325 Z" fill="#6b5a3a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 134.0 325 L 158.0 325 L 156.0 455 L 132.0 455 Z" fill="#4a4036" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 162.0 325 L 186.0 325 L 188.0 455 L 164.0 455 Z" fill="#4a4036" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 130.0 201 L 190.0 201 L 206.0 329 L 114.0 329 Z" fill="#9e2b25" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="128" y1="221" x2="192" y2="221" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="125" y1="241" x2="195" y2="241" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="122" y1="261" x2="198" y2="261" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="117" y1="303" x2="203" y2="303" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="115" y1="323" x2="205" y2="323" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+<line x1="126" y1="231" x2="194" y2="231" stroke="#f2c14e" stroke-width="5" stroke-linecap="round"/>
+<line x1="124" y1="251" x2="196" y2="251" stroke="#f2c14e" stroke-width="5" stroke-linecap="round"/>
+<line x1="118" y1="293" x2="202" y2="293" stroke="#f2c14e" stroke-width="5" stroke-linecap="round"/>
+<line x1="116" y1="313" x2="204" y2="313" stroke="#f2c14e" stroke-width="5" stroke-linecap="round"/>
+<path d="M 150.0 201 L 170.0 201 L 168.0 221 L 152.0 221 Z" fill="#a86a43" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<line x1="130" y1="199" x2="186" y2="231" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+<line x1="130" y1="199" x2="186" y2="231" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<line x1="190" y1="199" x2="134" y2="231" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+<line x1="190" y1="199" x2="134" y2="231" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/>
+<circle id="h1" data-fig="ma" class="skin" cx="160" cy="130" r="40" fill="#a86a43" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 120.0 130.0 Q 120.0 80.0 160 80.0 Q 200.0 80.0 200.0 130.0 Q 160 103.0 120.0 130.0 Z" fill="#241c14" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 118.0 126 Q 118.0 72 160.0 72 Q 202.0 72 202.0 126 Q 160.0 100 118.0 126 Z" fill="#7d2b6b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<line x1="117" y1="88" x2="117" y2="78" stroke="#f2c14e" stroke-width="2" stroke-linecap="round"/>
+<line x1="160" y1="72" x2="160" y2="64" stroke="#f2c14e" stroke-width="2" stroke-linecap="round"/>
+<line x1="122" y1="92" x2="198" y2="92" stroke="#f2c14e" stroke-width="5" stroke-linecap="round"/>
+<line x1="122" y1="118" x2="198" y2="118" stroke="#f2c14e" stroke-width="5" stroke-linecap="round"/>
+<path d="M 119.0 126 L 119.0 172 L 133.0 172 L 133.0 126 Z" fill="#7d2b6b" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 201.0 126 L 201.0 172 L 187.0 172 L 187.0 126 Z" fill="#7d2b6b" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<line x1="126" y1="172" x2="126" y2="180" stroke="#f2c14e" stroke-width="3" stroke-linecap="round"/>
+<line x1="194" y1="172" x2="194" y2="180" stroke="#f2c14e" stroke-width="3" stroke-linecap="round"/>
+<circle cx="147" cy="127" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="173" cy="127" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 146.0 152.0 Q 160 138.0 174.0 152.0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<rect x="296" y="129" width="140" height="150" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="304" y1="147" x2="317" y2="163" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="317" y1="163" x2="344" y2="129" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="304" y1="187" x2="317" y2="203" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="317" y1="203" x2="344" y2="169" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="304" y1="147" x2="317" y2="163" stroke="#2f9e4a" stroke-width="10.5" stroke-linecap="round"/>
+<line x1="317" y1="163" x2="344" y2="129" stroke="#2f9e4a" stroke-width="10.5" stroke-linecap="round"/>
+<line x1="350" y1="155" x2="420" y2="155" stroke="#5a6a8a" stroke-width="6" stroke-linecap="round"/>
+<line x1="304" y1="187" x2="317" y2="203" stroke="#2f9e4a" stroke-width="10.5" stroke-linecap="round"/>
+<line x1="317" y1="203" x2="344" y2="169" stroke="#2f9e4a" stroke-width="10.5" stroke-linecap="round"/>
+<line x1="350" y1="195" x2="420" y2="195" stroke="#5a6a8a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 314 235 l 14 -7 l 14 8 l 14 -8 l 14 8 l 14 -7" fill="none" stroke="#5a6a8a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="406" cy="235" r="20" fill="#ffffff" stroke="#e0473c" stroke-width="5"/>
+<line x1="396" y1="225" x2="416" y2="245" stroke="#e0473c" stroke-width="10" stroke-linecap="round"/>
+<line x1="416" y1="225" x2="396" y2="245" stroke="#e0473c" stroke-width="10" stroke-linecap="round"/>
+</svg>
